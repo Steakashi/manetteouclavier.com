@@ -1,0 +1,11 @@
+{
+  "name": "manetteouclavier.com",
+  "version": "1.0.0",
+  "description": "Manette ou clavier ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Staiq",
+  "license": "ISC"
+}
